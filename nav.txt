@@ -1,0 +1,24 @@
+
+1、数据库简介
+- 数据库概念
+- 数据库管理系统
+- 数据库管理软件产品
+
+2、MySQL数据库
+- MySQL数据库_安装和卸载
+- MySQL数据库_服务启动和停止
+- MySQL数据库_账号创建登录和退出
+- MySQL数据库_常用命令
+
+3、SQL命令语法
+- SQL_MySQL语法规范
+- SQL_DOS连接MySQL
+- SQL_DDL命令
+- SQL_DML命令
+- SQL_DQL命令
+- SQL_DCL命令
+
+4、MySQL图形管理工具使用
+- Navcat图形管理工具
+- SQLyog图形管理工具
+

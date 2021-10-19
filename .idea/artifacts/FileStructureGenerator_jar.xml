@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FileStructureGenerator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileStructureGenerator_jar</output-path>
+    <root id="archive" name="FileStructureGenerator.jar">
+      <element id="module-output" name="FileStructureGenerator" />
+    </root>
+  </artifact>
+</component>
